@@ -6,4 +6,5 @@
 ## Recursos
 - Numpy: [Keith Galli Numpy Tutorial](https://www.youtube.com/watch?v=GB9ByFAIAH4)
 - Pandas: [Corey Schafer Pandas Playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
+- Matplotlib: [Corey Schafer Matplotlib](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
 
